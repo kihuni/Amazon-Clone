@@ -30,7 +30,7 @@ const Header = () => {
               </div>
               <div className="header_optionBasket">
                 <ShoppingBasketIcon />
-                <span className="header_optionLineOne">0</span>
+                <span className="header_basketCount">0</span>
               </div>
       </div>
     </div>
