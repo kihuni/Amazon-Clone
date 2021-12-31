@@ -1,0 +1,11 @@
+.subtotal{
+   display: flex; 
+   flex-direction: column;
+   justify-content: space-between;
+   width: 300px;
+   height: 180px;
+   padding: 20px;
+   background-color: #f3f3f3;
+   border: solid 1px #dddddd;
+   border-radius: 3px;
+}
